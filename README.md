@@ -15,8 +15,8 @@ Visit my portfolio:
 ```text
 PalakRakholia.github.io/
 │
-├── artwork/       # Artwork and creative projects
+├── assests/artworks/       # Artwork and creative projects
+└── assests/profile.jpg    # Profile image
 ├── css/           # Stylesheets
-├── cv/            # CV/resume
 ├── index.html     # Main portfolio page
-└── profile.jpg    # Profile image
+├── prortfolio.js  # Main portfolio JS page
